@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="automation practice"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="48.328">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToComputerPageSuccessfully" time="0.563" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="2.145" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="1.083" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="22.303" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+                <testcase name="verifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="22.234" classname="com.nopcommerce.demo.testsuite.ComputerPageTest" />
+      
+</testsuite>
